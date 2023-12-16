@@ -1,0 +1,15 @@
+{
+    "Records": [
+      {
+        "s3": {
+          "bucket": {
+            "name": "london-test-data"
+          },
+          "object": {
+            "key": "test-file.csv"
+          }
+        }
+      }
+    ]
+  }
+  
